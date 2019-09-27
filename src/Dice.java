@@ -4,5 +4,6 @@ public class Dice {
         // måske ikke
         //bubbi3
         //johannes
+        //Sias
     }
 }
