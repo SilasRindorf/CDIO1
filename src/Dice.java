@@ -3,5 +3,8 @@ public class Dice {
         System.out.println("Virker det?");
         // måske ikke
         //bubbi3
+
+
+        //ny kommentar
     }
 }
